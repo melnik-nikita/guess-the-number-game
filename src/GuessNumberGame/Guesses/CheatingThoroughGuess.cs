@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using GuessNumberGame.GuessObservers;
-using GuessNumberGame.Utils;
 
 namespace GuessNumberGame.Guesses
 {
